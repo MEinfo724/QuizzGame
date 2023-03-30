@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Intrebari>
+   <Numar1 id="I1">
+      <Intrebare>Cat este 1+1?</Intrebare>
+      <Raspsuns>A)1</Raspsuns>
+      <Raspsuns>B)5</Raspsuns>
+      <Raspsuns>C)2</Raspsuns>
+      <Raspsuns>D)3</Raspsuns>
+   </Numar1>
+   <Numar2 id="I2">
+      <Intrebare>Cat este 2+1?</Intrebare>
+      <Raspsuns>A)1</Raspsuns>
+      <Raspsuns>B)5</Raspsuns>
+      <Raspsuns>C)2</Raspsuns>
+      <Raspsuns>D)3</Raspsuns>
+   </Numar2>
+   <Numar3 id="I3">
+      <Intrebare>Cat este 2+2?</Intrebare>
+      <Raspsuns>A)1</Raspsuns>
+      <Raspsuns>B)4</Raspsuns>
+      <Raspsuns>C)2</Raspsuns>
+      <Raspsuns>D)3</Raspsuns>
+   </Numar3>
+   <Numar4 id="I4">
+      <Intrebare>Cat este 2+3?</Intrebare>
+      <Raspsuns>A)1</Raspsuns>
+      <Raspsuns>B)5</Raspsuns>
+      <Raspsuns>C)2</Raspsuns>
+      <Raspsuns>D)3</Raspsuns>
+   </Numar4>
+   <Numar5 id="I5">
+      <Intrebare>Cat este 6+1?</Intrebare>
+      <Raspsuns>A)1</Raspsuns>
+      <Raspsuns>B)5</Raspsuns>
+      <Raspsuns>C)2</Raspsuns>
+      <Raspsuns>D)7</Raspsuns>
+   </Numar5>
+   <RaspunsCorect id="R1">C</RaspunsCorect>
+   <RaspunsCorect id="R2">D</RaspunsCorect>
+   <RaspunsCorect id="R3">B</RaspunsCorect>
+   <RaspunsCorect id="R4">B</RaspunsCorect>
+   <RaspunsCorect id="R5">D</RaspunsCorect>
+</Intrebari>
