@@ -19,6 +19,6 @@ Rulare client:
 ./jucator 127.0.0.1 2908
 ```
 ## Informații adiționale
-Pentru mai multe informații despre proiect puteți citi [acest document](https://github.com/MEinfo724/QuizzGame/blob/main/samplepaper.pdf), unde vorbesc mai in detaliu despre tehnologiile si conceptele utilizate(TCP, arhitectura aplicației,XML, detalii de implementare).
+Pentru mai multe informații despre proiect puteți citi [acest document](https://github.com/MEinfo724/QuizzGame/blob/main/samplepaper.pdf), unde vorbesc mai in detaliu despre tehnologiile si conceptele utilizate(TCP, arhitectura aplicației, XML, detalii de implementare).
 
 
